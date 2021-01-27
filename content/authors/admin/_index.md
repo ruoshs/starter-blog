@@ -40,7 +40,7 @@ bio: My research interests include unconventional superconductivity, angle-resol
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#mailto:osyh@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:osyh@qq.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
