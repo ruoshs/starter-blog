@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuanhe SONG
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student of Condensed Matter Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Department of Physics, Fudan University
+  url: "http://phys.fudan.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include unconventional superconductivity, angle-resolved photoemission spectroscopy (ARPES), and molecular-beam epitaxy.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+# interests:
+#- Interfacial Superconductivity
+#- 2D Materials
+#- Photoemission Spectroscopy
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: PhD in Condensed Matter Physics
+#    institution: Fudan University
+#    year: 2019 - present
+#  - course: MSc in Condensed Matter Physics
+#    institution: Fudan University
+#    year: 2016 - 2019
+#  - course: BSc in Physics
+#    institution: Shandong University
+#    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,23 +40,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'about/#mailto:osyh@qq.com'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ruoshs
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "osyh@qq.com"
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+欢迎来到宋元和的个人网站。我是一个凝聚态物理专业的在读博士生。目前我的研究方向是利用角分辨光电子能谱（ARPES）研究一些非常规超导材料的电子结构。我的主要课题是铁硒薄膜-氧化物界面体系的生长与测量。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Welcome to Yuanhe SONG's personal website. I am a current PhD student majoring in condensed matter physics. Currently my research intersest is studying the electronic structure of some unconventional superconductors by angle-resolved photoemission spectroscopy (ARPES). My main project is the growth and measurment of FeSe film - Oxide(s) system.
